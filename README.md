@@ -1,4 +1,4 @@
-# Finding-all-possible-algorithm-using-BFS-algorithm
+# Finding-all-possible-path-algorithm-using-BFS-algorithm
 INTRODUCTION
 
 The search for all possible paths in a graph is a fundamental problem in computer science and is applicable to various domains, such as network routing, maze solving, and path planning. One popular algorithm for tackling this problem is the Breadth-First Search (BFS) algorithm. BFS is a graph traversal technique that systematically explores all the vertices of a graph, starting from a given source vertex, in a breadth ward motion.
